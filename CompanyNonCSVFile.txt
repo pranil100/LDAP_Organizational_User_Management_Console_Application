@@ -1,0 +1,5 @@
+id,full_name,phone_number,email,department,job_description
+1,John Doe,123-456-7890,john.doe@example.com,Engineering,Software Engineer
+2,Jane Smith,123-456-7891,jane.smith@example.com,Marketing,Marketing Manager
+3,Bob Johnson,123-456-7892,bob.johnson@example.com,Sales,Sales Representative
+4,Emily Davis,123-456-7893,emily.davis@example.com,Human Resources,HR Specialist

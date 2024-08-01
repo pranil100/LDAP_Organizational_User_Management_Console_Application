@@ -1,0 +1,11 @@
+id,full_name,phone_number,email,department,job_description
+1,John Doe,123-456-7890,john.doe@example.com,Engineering,Software Engineer
+2,Jane Smith,123-456-7891,jane.smith@example.com,Marketing,Marketing Manager
+3,Bob Johnson,123-456-7892,bob.johnson@example.com,Sales,Sales Representative
+4,Emily Davis,123-456-7893,emily.davis@example.com,Human Resources,HR Specialist
+5,Michael Brown,123-456-7894,michael.brown@example.com,Engineering,Senior Developer
+6,Jessica Wilson,123-456-7895,jessica.wilson@example.com,Finance,Accountant
+7,David Martinez,123-456-7896,david.martinez@example.com,IT,System Administrator
+8,Laura Garcia,123-456-7897,laura.garcia@example.com,Customer Support,Support Specialist
+9,Robert Lee,123-456-7898,robert.lee@example.com,Engineering,DevOps Engineer
+10,Susan Miller,123-456-7899,susan.miller@example.com,Product,Product Manager

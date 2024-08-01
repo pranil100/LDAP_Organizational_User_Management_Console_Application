@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1722419645 source:c:\users\lenovo\desktop\pitg internship\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<Windows.h>
+	<Winldap.h>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+
+1722426490 source:c:\users\lenovo\desktop\github repo\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<Windows.h>
+	<Winldap.h>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+
